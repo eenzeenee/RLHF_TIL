@@ -1,0 +1,1 @@
+/home/work/anaconda3/envs/llama2/bin/python3 check_llama2_perf.py

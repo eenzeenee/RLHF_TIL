@@ -1,0 +1,10 @@
+# bash/bin
+git+https://github.com/huggingface/transformers
+peft
+datasets
+fire
+accelerate
+bitsandbytes
+evaluate
+absl-py
+rouge_score
